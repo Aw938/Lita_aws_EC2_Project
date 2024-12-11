@@ -12,4 +12,4 @@ I created 2 subnets, Public and Private Subnet
 [](/![image](https://github.com/user-attachments/assets/84ab3fd2-ddce-4c41-8d90-1fb54ceb01fd)
 ### Created Security group
 Created security with ibound rules to allow outgoing traffic
-[](/![image](https://github.com/user-attachments/assets/84ab3fd2-ddce-4c41-8d90-1fb54ceb01fd)
+[](/![image](https://github.com/user-attachments/assets/84ab3fd2-ddce-4c41-8d90-1fb54ceb01fd) 
